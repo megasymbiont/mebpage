@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "octopuses_are_amazing"
@@ -12,7 +13,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - united
       - brand
     css: styles.css
     toc: true
