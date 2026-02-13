@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "octopuses_are_amazing"
+  title: "Meg Branine"
   navbar:
     left:
       - href: index.qmd
@@ -11,7 +11,10 @@ website:
       - about.qmd
       - href: CV.qmd
         text: My CV
-      
+      - href: resources.qmd
+        text: Resources
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:

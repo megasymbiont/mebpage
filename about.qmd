@@ -2,6 +2,6 @@
 title: "About"
 ---
 
-About me: 
+I am currently a PhD candidate in Microbiology at Cornell University. I work in the [Pawlowska Lab](https://blogs.cornell.edu/pawlowska/)
 
 

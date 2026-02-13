@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "octopuses_are_amazing",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "My Favorite Resources",
     "section": "",
-    "text": "Under construction"
+    "text": "Some links to some great resources I use often"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About me:"
+    "text": "I am currently a PhD candidate in Microbiology at Cornell University. I work in the Pawlowska Lab"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Current:\nPast:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Meg Branine",
+    "section": "",
+    "text": "Under construction"
   }
 ]
