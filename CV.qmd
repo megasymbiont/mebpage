@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
 <center>
@@ -8,7 +8,7 @@ title: "CV"
 
 </center>
 
-<center>*Updated November 2025*</center>
+<center>*Updated February 2026*</center>
 
 <br> <br>
 
@@ -34,7 +34,9 @@ title: "CV"
 
 #### **Publications**
 
--   Bazzicalupo, A. L., Erlandson, S., **Branine, M.**, Ratz, M., Ruffing, L., Nguyen, N. H., & Branco, S. (2021). Fungal Community Shift Along Steep Environmental Gradients from Geothermal Soils in Yellowstone National Park. *Microbial Ecology*, 0123456789. <https://doi.org/10.1007/s00248-021-01848-y>
+-   **Branine, M.** and Pawlowska, T. (2026). More than the sum of its parts: the significance of reproductive addiction in the ecology and evolution of fungal-bacterial symbioses. *Microbiology and Molecular Biology Reviews* (submitted).
+
+-   Bazzicalupo, A. L., Erlandson, S., **Branine, M.**, Ratz, M., Ruffing, L., Nguyen, N. H., & Branco, S. (2022). Fungal Community Shift Along Steep Environmental Gradients from Geothermal Soils in Yellowstone National Park. *Microbial Ecology*, 84(1), 33-43. <https://doi.org/10.1007/s00248-021-01848-y>
 
 -   **Branine, M.**, Bazzicalupo, A., & Branco, S. (2019). Biology and applications of endophytic insect-pathogenic fungi. *PLoS Pathogens*, 15(7), 1–7. <https://doi.org/10.1371/journal.ppat.1007831>
 
@@ -123,13 +125,14 @@ title: "CV"
 
 #### **Service and Outreach**
 
--   2024-2025: Write a Researcher Treasurer
--   2023-24: Write a Researcher Communications Officer
--   2022-2023: Write a Researcher (Correspondence with high school students about research and STEM)
--   2021: Expanding Your Horizons at Cornell University. Group Leader
+-   2025- present: *Vaccination Conversations with Scientists (VACS):* Science Handout Team (research and create evidence-based materials for public education on vaccine science)
+-   2024-2025: *Write a Researcher* : Treasurer
+-   2023-24: *Write a Researcher:* Communications Officer
+-   2022-2023: *Write a Researcher* (Correspondence with high school students about research and STEM)
+-   2021: *Expanding Your Horizons* at Cornell University. Group Leader
 -   2019: STEM Night at Heck-Quaw Elementary School Belgrade, MT. Presenter (with Branco Lab)
 -   2019: Crossroads of Discovery (Celebration of Undergraduate Research at Montana State University). Presenter
--   2019: Expanding Your Horizons at Montana State University. Group Leader
+-   2019: *Expanding Your Horizons* at Montana State University. Group Leader
 -   2018-2019, 2015-2016: Montana Space Grant Consortium Space Public Outreach Team (SPOT) Presenter
 -   2017: Freshman Research Symposium Montana State University. Presenter (with Branco Lab)
 -   2017: Volunteer at Montana Science Olympiad
